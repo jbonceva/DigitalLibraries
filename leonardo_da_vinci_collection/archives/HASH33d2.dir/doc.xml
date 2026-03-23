@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Leonardo_DaVinci.html</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">334</Metadata>
+    <Metadata name="SourceDirectory">.</Metadata>
+    <Metadata name="Source">Leonardo_DaVinci.html</Metadata>
+    <Metadata name="SourceFile">Leonardo_DaVinci.html</Metadata>
+    <Metadata name="Language">ru</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Leonardo da Vinci - Биографија</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Leonardo_DaVinci.html</Metadata>
+    <Metadata name="UTF8URL">http://Leonardo_DaVinci.html</Metadata>
+    <Metadata name="Identifier">HASH33d272849c865c5f0353bb</Metadata>
+    <Metadata name="lastmodified">1774258255</Metadata>
+    <Metadata name="lastmodifieddate">20260323</Metadata>
+    <Metadata name="oailastmodified">1774258613</Metadata>
+    <Metadata name="oailastmodifieddate">20260323</Metadata>
+    <Metadata name="assocfilepath">HASH33d2.dir</Metadata>
+  </Description>
+  <Content>
+  &lt;h1&gt;Leonardo da Vinci&lt;/h1&gt;
+  &lt;p&gt;Leonardo da Vinci (1452–1519) бил италијански ренесансен уметник, научник и инженер.&lt;/p&gt;
+
+</Content>
+</Section>
+</Archive>
