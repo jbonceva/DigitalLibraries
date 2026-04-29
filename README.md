@@ -14,7 +14,7 @@ Each project is built using Greenstone3 and represents a digital library collect
 
 The full multimedia collection (songs, images, and videos) is available at the link below:
 
-👉 [Access the collection on Google Drive](https://drive.google.com/drive/folders/12lQmn5xnjV4F7kOnUs-asawYEnWGj69w?usp=sharing)
+👉 [Access the collection on Google Drive](https://drive.google.com/file/d/1XusNe25M1aoXsJ25gURFeZemwi6COZZe/view?usp=sharing)
 
 Contents of the collection:
 
